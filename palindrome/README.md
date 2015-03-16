@@ -12,6 +12,6 @@ should return [99, 101]
 
 More
 ----
-* Return the smallest palindrome.
-* Return the largest palindrome.
-* You can also ask questions about generators.
+* Write a function that returns the smallest palindrome.
+* Write a function that returns the largest palindrome.
+* You can also ask to do it using a generator.
