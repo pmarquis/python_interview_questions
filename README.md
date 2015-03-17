@@ -1,3 +1,3 @@
 # python_interview_questions
-List of exercises to prepare a Python interview
+python_interview_questions is a list of exercises that can be used by candidates to be prepared and recruiters to ask questions.
 
