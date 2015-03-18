@@ -1,4 +1,4 @@
-Problem
+Problem (level: 3/5 and can be 4/5)
 -------
 Write a function which take a word as parameter, create an alphabet with the letters and return all the combination 
 of word.
